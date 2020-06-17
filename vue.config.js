@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-        ? '/React-dome1/build/'
+        ? '/React-demo1/build/'
         : '/'
 }

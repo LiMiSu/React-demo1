@@ -1,0 +1,2 @@
+.cell{border:1px solid #000;width:100px;height:100px;font-size:80px}.cell,.gameOver,.row{display:flex;justify-content:center;align-items:center}.gameOver{position:fixed;width:100vw;height:100vh;background:rgba(0,0,0,.5);top:0;left:0;font-size:100px;color:#fff}
+/*# sourceMappingURL=main.124bcf35.chunk.css.map */
